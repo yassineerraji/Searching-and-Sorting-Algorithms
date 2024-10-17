@@ -1,2 +1,16 @@
 # Sorting-Sorting-Algorithms
-This notebook covers essential searching and sorting algorithms, such as Linear Search, Binary Search, Merge Sort, and more. It includes Python implementations along with visual illustrations for better understanding. Ideal for learners and professionals, it provides a clear and concise explanation of each algorithm’s functionality.
+
+This notebook provides a comprehensive overview of essential searching and sorting algorithms, making it a valuable resource for learners and professionals alike. Key features include:
+
+	•	Algorithms Covered:
+	•	Linear Search
+	•	Binary Search
+	•	Bubble Sort
+	•	Merge Sort
+	•	Quick Sort
+	•	Additional algorithms like Heap Sort and Radix Sort
+	•	Content Structure:
+	•	Detailed explanations of each algorithm
+	•	Python implementations for practical understanding
+	•	Visual illustrations to clarify algorithm functionality
+	•	Learning Resource:
